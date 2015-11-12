@@ -1,0 +1,3 @@
+__author__ = 'delo'
+
+CONTINENTAL_AMERICA = [-125.0011, 24.9493, -66.9326, 49.5904]
